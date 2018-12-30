@@ -1,4 +1,7 @@
 # scratch
+## Tips
+* Getting Started with Scratch
+
 ## Scratch Tutorials
 * Channel Trailer
   * https://www.youtube.com/watch?v=R9GbOXIsSM8
