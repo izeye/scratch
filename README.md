@@ -1,6 +1,7 @@
 # scratch
 ## Tips
 * Getting Started with Scratch
+* Animate A Name
 
 ## Scratch Tutorials
 * Channel Trailer
