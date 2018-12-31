@@ -2,6 +2,7 @@
 ## Tips
 * Getting Started with Scratch
 * Animate A Name
+* Make Music
 
 ## Scratch Tutorials
 * Channel Trailer
