@@ -4,6 +4,7 @@
 * Animate A Name
 * Make Music
 * Make It Fly
+* Create a Pong Game
 
 ## Scratch Tutorials
 * Channel Trailer
