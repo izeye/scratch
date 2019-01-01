@@ -3,6 +3,7 @@
 * Getting Started with Scratch
 * Animate A Name
 * Make Music
+* Make It Fly
 
 ## Scratch Tutorials
 * Channel Trailer
