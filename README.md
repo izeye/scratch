@@ -5,6 +5,7 @@
 * Make Music
 * Make It Fly
 * Create a Pong Game
+* Race to the Finish
 
 ## Scratch Tutorials
 * Channel Trailer
