@@ -1,11 +1,15 @@
 # scratch
-## Tips
+## Home
+### Tips
 * Getting Started with Scratch
 * Animate A Name
 * Make Music
 * Make It Fly
 * Create a Pong Game
 * Race to the Finish
+
+### Tutorials
+* Getting Started
 
 ## Scratch Tutorials
 * Channel Trailer
