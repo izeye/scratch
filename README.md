@@ -1,5 +1,9 @@
 # scratch
 ## Home
+### Tutorials
+* Getting Started
+* Create Animations That Talk
+
 ### Tips
 * Getting Started with Scratch
 * Animate A Name
@@ -7,9 +11,6 @@
 * Make It Fly
 * Create a Pong Game
 * Race to the Finish
-
-### Tutorials
-* Getting Started
 
 ## Scratch Tutorials
 * Channel Trailer
