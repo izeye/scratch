@@ -3,6 +3,7 @@
 ### Tutorials
 * Getting Started
 * Create Animations That Talk
+* Animate a Name
 
 ### Tips
 * Getting Started with Scratch
