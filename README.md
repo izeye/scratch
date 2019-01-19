@@ -4,6 +4,7 @@
 * Getting Started
 * Create Animations That Talk
 * Animate a Name
+* Make Music
 
 ### Tips
 * Getting Started with Scratch
