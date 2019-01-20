@@ -5,6 +5,7 @@
 * Create Animations That Talk
 * Animate a Name
 * Make Music
+* Make a Clicker Game
 
 ### Tips
 * Getting Started with Scratch
