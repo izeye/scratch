@@ -6,6 +6,7 @@
 * Animate a Name
 * Make Music
 * Make a Clicker Game
+* Make a Chase Game
 
 ### Tips
 * Getting Started with Scratch
