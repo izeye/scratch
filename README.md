@@ -7,6 +7,7 @@
 * Make Music
 * Make a Clicker Game
 * Make a Chase Game
+* Animate A Character
 
 ### Tips
 * Getting Started with Scratch
