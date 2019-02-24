@@ -10,6 +10,8 @@
 * Animate A Character
 * Create A Story
 * Video Sensing
+* Add a Sprite
+* Add a Backdrop
 
 ### Tips
 * Getting Started with Scratch
