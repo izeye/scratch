@@ -9,6 +9,7 @@
 * Make a Chase Game
 * Animate A Character
 * Create A Story
+* Video Sensing
 
 ### Tips
 * Getting Started with Scratch
