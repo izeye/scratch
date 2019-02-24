@@ -8,6 +8,7 @@
 * Make a Clicker Game
 * Make a Chase Game
 * Animate A Character
+* Create A Story
 
 ### Tips
 * Getting Started with Scratch
