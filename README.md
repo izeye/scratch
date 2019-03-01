@@ -24,6 +24,8 @@
 ## Scratch Tutorials
 * Channel Trailer
   * https://www.youtube.com/watch?v=R9GbOXIsSM8
+* Scratch 3 Beginner's Tutorial - Beetle Game (Scratch 2019)
+  * https://www.youtube.com/watch?v=CAccFtzGF_g
 
 ### Scratch Basics
 * Basics of Scratch 5 Minutes Easy and Simple | Basic Layout
