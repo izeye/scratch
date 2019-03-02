@@ -26,6 +26,8 @@
   * https://www.youtube.com/watch?v=R9GbOXIsSM8
 * Scratch 3 Beginner's Tutorial - Beetle Game (Scratch 2019)
   * https://www.youtube.com/watch?v=CAccFtzGF_g
+* Scratch 3 - Beginner's Paint Program Tutorial (Scratch 2019)
+  * https://www.youtube.com/watch?v=9J44i3Xh2HQ
 * Scratch 3 - Working Clock Tutorial (Scratch 2019)
   * https://www.youtube.com/watch?v=bZdht3HzWZo
 
